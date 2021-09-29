@@ -58,7 +58,7 @@
   dockerImageTag: 0.2.2
   documentationUrl: https://hub.docker.com/repository/docker/airbyte/source-google-sheets
   icon: google-sheets.svg
-- sourceDefinitionId: 435bb9a5-7887-4809-aa58-28c27df0d7ad
+- sourceDefinitionId: 435bb9a5-7887-4809-aa58-28c27df0d7ae
   name: MySQL
   dockerRepository: thenamanagarwal/source-mysql
   dockerImageTag: 0.0.1
