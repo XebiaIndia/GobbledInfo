@@ -6,7 +6,7 @@
 - destinationDefinitionId: 8be1cf83-fde1-477f-a4ad-318d23c9f3c6
   name: Local CSV
   dockerRepository: thenamanagarwal/destination-csv
-  dockerImageTag: 0.0.1
+  dockerImageTag: dev
   documentationUrl: https://hub.docker.com/repository/docker/thenamanagarwal/destination-csv
 - destinationDefinitionId: 25c5221d-dce2-4163-ade9-739ef790f503
   name: Postgres
