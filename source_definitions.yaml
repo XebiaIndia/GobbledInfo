@@ -30,9 +30,9 @@
   icon: mssql.svg
 - sourceDefinitionId: decd338e-5647-4c0b-adf4-da0e75f5a750
   name: Postgres
-  dockerRepository: airbyte/source-postgres
+  dockerRepository: thenamanagarwal/source-postgres
   dockerImageTag: 0.3.2
-  documentationUrl: https://hub.docker.com/r/airbyte/source-postgres
+  documentationUrl: https://hub.docker.com/repository/docker/thenamanagarwal/source-postgres
   icon: postgresql.svg
 - sourceDefinitionId: cd42861b-01fc-4658-a8ab-5d11d0510f01
   name: Recurly
