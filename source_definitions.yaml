@@ -60,7 +60,7 @@
   icon: google-sheets.svg
 - sourceDefinitionId: 435bb9a5-7887-4809-aa58-28c27df0d7ad
   name: MySQL
-  dockerRepository: thenamanagarwal/source-mysql
+  dockerRepository: airbyte/source-mysql
   dockerImageTag: 0.0.2
   documentationUrl: https://hub.docker.com/repository/docker/thenamanagarwal/source-mysql
   icon: mysql.svg
